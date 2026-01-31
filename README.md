@@ -131,4 +131,4 @@ This project is open source and available for educational purposes.
 
 ---
 
-**Note**: This project is for educational and demonstration purposes. The reference is Agoda website (Agoda ကိုမှီခြမ်းထားပါသည်).
+**Note**: This project is for educational and demonstration purposes. The reference is Agoda website.
